@@ -1,1 +1,5 @@
-# Pemrograman_Abdurrachman_Emerald_TLS26
+# Tugas ProgDas
+
+Nama      : Abdurrachman
+Kelompok  : Emerald
+Isi repo  : Tugas pemrograman dasar untuk TLS 2026
